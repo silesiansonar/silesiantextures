@@ -8,4 +8,6 @@ and update it by fetching the origin (something your dad didn´t teach you) ik i
 
 only major releases will be in that good ol´ releases page
 
-current version : 1.20.4
+current minecraft version : 1.20.4
+
+current release : 1204-b1
