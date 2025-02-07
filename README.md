@@ -12,4 +12,4 @@ current minecraft version : 1.20.4
 
 current major release : 1204-b1
 
-current rolling release : 24w01 (mojang inspired numbering idk)
+current rolling release : 25w01 (mojang inspired numbering idk)
